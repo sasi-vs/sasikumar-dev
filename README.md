@@ -10,7 +10,7 @@
 - 🌱 Learning advanced React & backend architecture
 - 👯 Looking to collaborate on open-source projects
 - 💬 Ask me about HTML, CSS, JavaScript, React, Node.js
-- 📫 Reach me at: yourmail@gmail.com
+- 📫 Reach me at: sasikumarv299@gmail.com
 
 ---
 
