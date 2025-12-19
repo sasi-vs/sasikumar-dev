@@ -23,14 +23,14 @@
 ---
 
 ## 📌 Projects
-### 🔹 Todo Management App
-- MERN stack application
+### 🔹 Student Database Management System
+- Java JDBC connection with MySql
 - Features: Login, CRUD tasks, API integration  
-👉 [View Repository](https://github.com/sasi-vs/todo-app)
+👉 [View Repository](https://github.com/sasi-vs/stud)
 
 ### 🔹 Portfolio Website
 - Responsive personal website  
-👉 [View Repository](https://github.com/sasi-vs/portfolio)
+👉 [View Repository](https://github.com/sasi-vs/SasiPortfolio)
 
 ---
 
