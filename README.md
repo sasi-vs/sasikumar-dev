@@ -25,7 +25,8 @@
 ## 📌 Projects
 ### 🔹 Student Database Management System
 - Java JDBC connection with MySql
-- Features: Login, CRUD tasks, API integration  
+- Features: Login, CRUD tasks, API integration
+   
 👉 [View Repository](https://github.com/sasi-vs/stud)
 
 ### 🔹 Portfolio Website
@@ -45,4 +46,5 @@
 
 ---
 >If Possible Please Provide Stars for My Projects
+
 ⭐️ *Thank you for visiting my profile!*
