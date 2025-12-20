@@ -15,10 +15,11 @@
 ---
 
 ## 🛠️ Tech Stack
+- Programming Languages: C, C++, Java, Python
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express
 - Database: MongoDB, MySQL
-- Tools: Git, GitHub, VS Code
+- Tools: Git, GitHub, VS Code, Cursor, WindSurf, Bolt, 
 
 ---
 
