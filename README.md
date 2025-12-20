@@ -29,7 +29,9 @@
 👉 [View Repository](https://github.com/sasi-vs/stud)
 
 ### 🔹 Portfolio Website
-- Responsive personal website  
+- Responsive personal website
+- Still Working
+- Future updates will be given soon..
 👉 [View Repository](https://github.com/sasi-vs/SasiPortfolio)
 
 ### 🔹 Recipe Book
