@@ -25,21 +25,19 @@
 ## 📌 Projects
 ### 🔹 Student Database Management System
 - Java JDBC connection with MySql
-- Features: Login, CRUD tasks, API integration
-   
+- Features: Login, CRUD tasks, API integration 
 👉 [View Repository](https://github.com/sasi-vs/stud)
 
 ### 🔹 Portfolio Website
 - Responsive personal website
 - Still Working
-- Future updates will be given soon..
-  
+- Future updates will be given soon.. 
 👉 [View Repository](https://github.com/sasi-vs/SasiPortfolio)
 
 ### 🔹 Recipe Book
 - Basic React And Type Script Website
-- Features: Login, CRUD tasks, API integration  
-👉 [View Repository](https://github.com/sasi-vs/Recipe_Book)
+- Features: Login, CRUD tasks, API integration
+👉[View Repository](https://github.com/sasi-vs/Recipe_Book)
 ---
 
 ## 📊 GitHub Stats
